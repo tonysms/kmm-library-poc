@@ -1,0 +1,8 @@
+framework module KMMLibraryPOC {
+    umbrella header "KMMLibraryPOC.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
